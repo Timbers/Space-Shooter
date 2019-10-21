@@ -1,0 +1,69 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Timbers\Desktop\projs\space\Space Voyage_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Timbers\Desktop\projs\space\Space Voyage_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Timbers\Desktop\projs\space\Space Voyage_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Timbers\Desktop\projs\space\Space Voyage_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Timbers\Desktop\projs\space\Space Voyage_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Timbers\Desktop\projs\space\Space Voyage_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Timbers\Desktop\projs\space\Space Voyage_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Timbers\Desktop\projs\space\Space Voyage_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Timbers\Desktop\projs\space\Space Voyage_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Timbers\Desktop\projs\space\Space Voyage_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.043 seconds
+Platform assembly: C:\Users\Timbers\Desktop\projs\space\Space Voyage_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Timbers\Desktop\projs\space\Space Voyage_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.631703 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1d34 -> priority: 1 
+  Thread -> id: 1f30 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.962667 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 654.
+Total: 0.400592 ms (FindLiveObjects: 0.061234 ms CreateObjectMapping: 0.030024 ms MarkObjects: 0.277728 ms  DeleteObjects: 0.030814 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Load
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.586271 ms
+
+Unloading 320 unused Assets to reduce memory usage. Loaded Objects now: 423.
+Total: 0.712691 ms (FindLiveObjects: 0.045432 ms CreateObjectMapping: 0.039506 ms MarkObjects: 0.231901 ms  DeleteObjects: 0.395456 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.393086 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 654.
+Total: 0.380444 ms (FindLiveObjects: 0.028049 ms CreateObjectMapping: 0.055308 ms MarkObjects: 0.267851 ms  DeleteObjects: 0.028839 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Load
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.625382 ms
+
+Unloading 320 unused Assets to reduce memory usage. Loaded Objects now: 423.
+Total: 0.610370 ms (FindLiveObjects: 0.047407 ms CreateObjectMapping: 0.022913 ms MarkObjects: 0.229135 ms  DeleteObjects: 0.310518 ms)
+
